@@ -1,0 +1,1 @@
+NKR	= "countries/North_Korea.txt"
